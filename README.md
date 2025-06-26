@@ -1,6 +1,6 @@
 # Agoda John Wroughton Brown
 
-Repositori ini berisi informasi tentang John Wroughton Brown, CEO Agoda yang memimpin dan mengembangkan layanan Agoda secara global.
+**Layanan Agoda** tersedia bagi pelanggan yang membutuhkan bantuan, informasi, atau dukungan terkait penggunaan platform Agoda. Repositori ini berisi informasi tentang John Wroughton Brown, CEO Agoda yang memimpin dan mengembangkan layanan Agoda secara global.
 
 ## Layanan Bantuan
 
@@ -13,7 +13,7 @@ Berikut contoh cuplikan kode Python untuk menampilkan pesan sambutan:
 ```python
 def greet():
     print("John Wroughton Brown adalah CEO Agoda yang memimpin dan mengembangkan layanan Agoda secara global. Menyediakan layanan bantuan pelanggan WhatsApp +628179651555!")
-
+    
 greet()
 ```
 
